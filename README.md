@@ -59,7 +59,8 @@ Exam 70-486 Objectives and Resources
 
 **References:**
 - [Choose between ASP.NET 4.x and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/choose-aspnet-framework?view=aspnetcore-2.2)
--  [MVC4  Models and Data access](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/hands-on-labs/aspnet-mvc-4-models-and-data-access)
+-  [MVC4  Models and Data access (not sure if still relevant](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/hands-on-labs/aspnet-mvc-4-models-and-data-access)
+- [MVC5 accessing data](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/accessing-your-models-data-from-a-controller)
 
 ## Design a distributed application
 
