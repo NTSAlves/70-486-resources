@@ -1,3 +1,4 @@
+
 # 70-486 Resources <!-- omit in toc -->
 Exam 70-486 Objectives and Resources
 
@@ -58,6 +59,7 @@ Exam 70-486 Objectives and Resources
 
 **References:**
 - [Choose between ASP.NET 4.x and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/choose-aspnet-framework?view=aspnetcore-2.2)
+-  [MVC4  Models and Data access](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/hands-on-labs/aspnet-mvc-4-models-and-data-access)
 
 ## Design a distributed application
 
